@@ -2,7 +2,15 @@
 
 React + TypeScript + Vite · Supabase (Postgres, Auth, Storage) · Hosting en Cloudflare.
 
-## Desarrollo
+## Sitio publicado
+
+La versión en línea está disponible para revisar sin instalar el proyecto:
+
+[Abrir Forge Labs](https://forge-labs.famendezabreg.workers.dev)
+
+## Ejecutar localmente
+
+Si deseas instalarlo y ejecutarlo en tu computadora:
 
 ```bash
 npm install
